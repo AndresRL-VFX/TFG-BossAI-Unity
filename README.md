@@ -8,4 +8,4 @@ SavWav.cs — conversión del AudioClip de Unity a archivo .WAV
 whisper_server.py — servidor Python: Whisper + GPT-4o-mini + Text-to-Speech
 
 Autor
-Andrés Rodríguez López — Universidad Francisco de Vitoria, 2025
+Andrés Rodríguez López — Universidad Francisco de Vitoria, 2026
